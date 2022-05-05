@@ -1,0 +1,54 @@
+.main-container {
+  background-color: #39A2DB;
+  height: 1350px;
+  padding: 300px 400px;
+  /* text-align: center; */
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat Alternates', sans-serif; */
+}
+
+.title {
+  text-align: center;
+  color: #EEEEEE;
+}
+
+.todo-post {
+  margin-left: 10rem;
+  margin-top: 7rem;
+  position: relative;
+  left: 26rem;
+}
+
+
+#exampleTodo {
+width: 40rem;
+}
+
+#floatingInput {
+  width: 35rem;
+}
+
+
+.todos-container {
+  width: 32.25%;
+  background-color: #EEEEEE;
+
+  /* padding: 100px 100px; */
+}
+
+.todos-list {
+  padding: 20px 20px;
+}
+
+.form-control {
+  background-color: #EEEEEE;
+}
+
+.form-check-label {
+  padding-left: 3rem;
+}
+
+.delete-icon {
+  font-size: 1.5rem;
+  color: #334257;
+}
